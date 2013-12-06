@@ -11,7 +11,11 @@ class ApplicationController < ActionController::Base
   	
   end
 
-  def fromDevelop__  fromDevelop__ fromDevelop__
+  def fromrrDevelop__  fromDevelop__ fromDevelop__
+  	
+  end
+
+    def fromDevelopNew
   	
   end
 
