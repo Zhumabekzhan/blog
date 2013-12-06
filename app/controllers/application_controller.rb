@@ -7,33 +7,7 @@ class ApplicationController < ActionController::Base
   	find_al { |ds|  }
   end
 
-  def method_name fromDevelop__ fromDevelop__
-  	
-  end
-
-  def fromrrDevelop__  fromDevelop__ fromDevelop__
-  	
-  end
-
-    def fromDevelopNew
-  	
-  end
-
-  ffffffffffffff
-
-hhhhhhhhhhhhhhhhh
-
-hhhhhhhhhhhhhhh
-
-  def hhhhhhhhhh fromDehhhhhhhhhhvelop2
-  	
-  end
-
-  def fromDevelop1_1
-  	
-  end
-
-  def fromDevelop1_2
+  def method_name
   	
   end
 end
