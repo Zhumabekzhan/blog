@@ -14,4 +14,8 @@ class ApplicationController < ActionController::Base
   def fromDevelop
   	
   end
+
+    def fromDevelop2
+  	
+  end
 end
