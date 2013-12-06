@@ -15,7 +15,15 @@ class ApplicationController < ActionController::Base
   	
   end
 
-    def fromDevelop2
+  def fromDevelop2
+  	
+  end
+
+  def fromDevelop1_1
+  	
+  end
+
+  def fromDevelop1_2
   	
   end
 end
