@@ -10,4 +10,8 @@ class ApplicationController < ActionController::Base
   def method_name
   	
   end
+
+  def fromDevelop
+  	
+  end
 end
