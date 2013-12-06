@@ -10,4 +10,7 @@ class ApplicationController < ActionController::Base
   def method_name
   	
   end
+
+
+  fdssdfdsf
 end
