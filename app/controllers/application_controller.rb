@@ -7,11 +7,11 @@ class ApplicationController < ActionController::Base
   	find_al { |ds|  }
   end
 
-  def method_name fromDevelop__
+  def method_name fromDevelop__ fromDevelop__
   	
   end
 
-  def fromDevelop__  fromDevelop__
+  def fromDevelop__  fromDevelop__ fromDevelop__
   	
   end
 
