@@ -11,7 +11,7 @@ class ApplicationController < ActionController::Base
   	
   end
 
-  def fromDevelop
+  def fromDevelop__
   	
   end
 
