@@ -10,4 +10,9 @@ class ApplicationController < ActionController::Base
   def method_name
   	
   end
+
+hotfix
+  hotfix
+  hotfix
+  hotfix
 end
