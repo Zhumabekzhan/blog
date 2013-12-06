@@ -21,6 +21,8 @@ class ApplicationController < ActionController::Base
 
   ffffffffffffff
 
+  gggggggggggggg
+
   def fromDevelop2
   	
   end
